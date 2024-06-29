@@ -1,4 +1,4 @@
-# A template for a portfolio
+# Portfolio website
 
 Created with React, JavaScript and vanilla CSS.
 
