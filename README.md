@@ -22,4 +22,4 @@ You need to have ```node.js``` installed.
 * To showcase your projects
 * Broader than CV
 
-<img src="./src/assets/firefox_VO7gelnUEJ.gif" width="500"/>
+<img src="./src/assets/firefox_frJdtLw8W9.gif" width="500"/>

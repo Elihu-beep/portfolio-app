@@ -1,5 +1,5 @@
 import React from 'react';
-import profilePicture from '../assets/profilepic.jpg'
+import profilePicture from '../assets/profilepic.png'
 import LinkedInButton from './LinkedInButton';
 import GitHubButton from './GithubButton';
 
