@@ -1,0 +1,9 @@
+.footer {
+    color: white;
+    padding: 10px 20px;
+    text-align: center;
+    position: static;
+    bottom: 0;
+    font-family: 'Pixelify Sans', sans-serif; 
+    font-weight: 300;
+}

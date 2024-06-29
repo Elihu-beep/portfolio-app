@@ -1,4 +1,3 @@
-// src/components/Home.js
 import React from 'react';
 import profilePicture from '../assets/profilepic.jpg'
 import LinkedInButton from './LinkedInButton';
@@ -24,7 +23,7 @@ const Home = () => {
                     </p>
                     <div className='button-container'>
                     <LinkedInButton />
-                    <GitHubButton />
+                    <GitHubButton profileUrl={'https://github.com/Elihu-beep'}/>
                     </div>
                 </div>
                 <img src={profilePicture} className='profilePicture' alt='profile' />

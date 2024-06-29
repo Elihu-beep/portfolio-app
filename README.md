@@ -2,4 +2,4 @@
 
 Created with React, JavaScript and vanilla CSS.
 
-![Demo](./src/assets/firefox_6YoaOys04S.gif)
+![Demo](./src/assets/firefox_VO7gelnUEJ.gif)
