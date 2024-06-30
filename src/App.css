@@ -10,6 +10,7 @@ body {
   background-attachment: fixed;
   background-size: cover;
   margin: 0;
+  background-color: #373936;
 }
 
 .nav {
@@ -159,5 +160,22 @@ body {
 @keyframes walk {
   100% {
       background-position: -1300px 0; 
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .nav {
+    font-size: 16px;
+    gap: 6px;
+    width: 100%; 
+  }
+  
+  .right-nav {
+    gap: 10px;
+  }
+  
+  .brand-name {
+    font-size: 1.25rem;
+    margin-left: 10px;
   }
 }

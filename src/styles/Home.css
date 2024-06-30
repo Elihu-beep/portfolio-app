@@ -39,3 +39,21 @@
     color: #EEE7DA;
     margin-top: 10em;
   }
+
+  @media screen and (max-width: 768px) {
+    .greetingText {
+      font-size: 2em;
+    }
+    
+    .aboutText {
+      width: 300px;
+      font-size: 1em;
+    }
+        
+    .profilePicture {
+      margin-top: 6em;
+      width: 100%;
+      max-width: 300px;
+    }
+
+  }

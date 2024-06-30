@@ -73,13 +73,8 @@
         height: 450px;
         margin: 10px;
         width: 300px;
-        position: relative; 
-        color: #EEE7DA;
-        background-color: rgb(42, 43, 42, 0.8);
         border-radius: 2px;
         padding: 10px;
-        font-family: 'Roboto Condensed', sans-serif;
-        font-weight: 300;
         font-size: 1.25em;
       }
 
@@ -92,4 +87,13 @@
         font-weight: 300;
         font-size: 1.5em;
     }
+
+    .myWorksTitle {
+        font-size: 2em;
+    }
+    
+    .worksText {
+        font-size: 1em;
+    }
+    
 }

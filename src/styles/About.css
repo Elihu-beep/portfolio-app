@@ -65,10 +65,49 @@
     font-family: 'Arial', sans-serif; 
     font-size: 1em; 
     transition: background-color 0.3s ease, color 0.3s ease; 
-
   }
   
   .skills li:hover {
     background-color: rgba(0, 0, 0, 0.2);
     color: #EEE7DA;
+  }
+
+  @media screen and (max-width: 768px) {
+    .aboutHead {
+      font-size: 2em;
+  }
+  
+  .aboutTextSection {
+      font-size: 1em;
+  }
+  
+  .skillHeader {
+    font-size: 2em;
+  }
+  
+  .skillContainer {
+      margin: 1em 0;
+    }
+    
+    .skills {
+      padding: 0;
+      margin: 1em auto;
+      gap: 10px; 
+      width: 100%;
+      margin-top: 10em;
+      font-size: 10px;
+      margin-right: 3em;
+    }
+    
+    .skills li {
+      padding: 15px 25px;
+      border: 2px solid rgba(0, 0, 0, 0.8);
+      border-radius: 5px; 
+      background-color: rgb(42, 43, 42, 0.8); 
+      color: #EEE7DA;
+      font-family: 'Arial', sans-serif; 
+      font-size: 1em; 
+      transition: background-color 0.3s ease, color 0.3s ease; 
+  
+    }
   }
