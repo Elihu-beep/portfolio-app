@@ -87,7 +87,6 @@ body {
 }
 
 .section {
-  margin-top: 20em;
   display: flex;
   flex-direction: column;
   justify-content: center;
