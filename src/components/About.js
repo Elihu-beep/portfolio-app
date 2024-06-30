@@ -9,9 +9,11 @@ const About = () => {
         <div id="about" className="section aboutSection">
             <h1 className='aboutHead'>About Me</h1>
             <p className='aboutTextSection'>
-                I'm a fourth year ICT-engineering student from Finland. I work in mobile app development using the latest technologies.
-                My interest are in anything related to software, although my passion and strenghts are in front-end development.
-                I have also done extensive studies in the field of data-analytics and ai. My expertise include Working with large datasets and using machine learning to generate valuable insight.
+            I am a fourth-year ICT engineering student from Finland.
+            I work in mobile app and web development using the latest technologies.
+            My interests are in anything related to software, although my passion and strengths lie in front-end development.
+            I have also done extensive studies in data analytics and AI.
+            My expertise includes working with large datasets and using machine learning to generate valuable insights.
             </p>
             <div className='skillContainer'>
                 <h1 className='skillHeader'>Skills</h1>
@@ -22,7 +24,6 @@ const About = () => {
                     <li><FontAwesomeIcon icon={faJs} /> TypeScript</li>
                     <li><FontAwesomeIcon icon={faReact} /> React</li>
                     <li><FontAwesomeIcon icon={faReact} /> React Native</li>
-                    <li><FontAwesomeIcon icon={faAngular} /> Angular</li>
                     <li><FontAwesomeIcon icon={faNodeJs} />Node.js</li>
                     <li><FontAwesomeIcon icon={faCss3} /> CSS</li>
                     <li><FontAwesomeIcon icon={faHtml5} /> HTML</li>
