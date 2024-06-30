@@ -6,7 +6,7 @@
     padding: 30px;
     display: flex;
     align-self: flex-start;
-    color: white;
+    color: #EEE7DA;
     font-family: 'Pixelify Sans', sans-serif; 
     font-weight: 300;
     font-size: 4em;
@@ -14,7 +14,7 @@
 
 .aboutTextSection {
     text-align: start;
-    color: white;
+    color: #EEE7DA;
     background-color: rgb(42, 43, 42, 0.8);
     border-radius: 5px;
     padding: 10px;
@@ -28,7 +28,13 @@
     padding: 30px;
     display: flex;
     align-self: flex-start;
-    color: white;
+    color: #EEE7DA;
+}
+
+.skillHeader {
+  font-family: 'Pixelify Sans', sans-serif; 
+  font-weight: 300;
+  font-size: 3em;
 }
 
 .skillContainer {
@@ -44,8 +50,10 @@
     flex-wrap: wrap; 
     justify-content: start; 
     gap: 10px; 
+    width: 80%;
     margin-top: 8em;
     font-size: 20px;
+    margin-right: 3em;
   }
   
   .skills li {
@@ -53,14 +61,14 @@
     border: 2px solid rgba(0, 0, 0, 0.8);
     border-radius: 5px; 
     background-color: rgb(42, 43, 42, 0.8); 
-    color: #ffffff; 
+    color: #EEE7DA;
     font-family: 'Arial', sans-serif; 
-    font-size: 1em; /* Font size */
+    font-size: 1em; 
     transition: background-color 0.3s ease, color 0.3s ease; 
 
   }
   
   .skills li:hover {
     background-color: rgba(0, 0, 0, 0.2);
-    color: #fff; 
+    color: #EEE7DA;
   }

@@ -23,13 +23,13 @@ function App() {
                     <span className="brand-name">Portfolio</span>
                 </div>
                 <div className='right-nav'>
-                    <Link className="nav-link" to="home" smooth={true} duration={800}>
+                    <Link className="nav-link" to="home" smooth={true} duration={800} offset={-100}>
                         Home
                     </Link>
                     <Link className="nav-link" to="about" smooth={true} duration={800} offset={-100}>
                         About
                     </Link>
-                    <Link className="nav-link" to="works" smooth={true} duration={800}>
+                    <Link className="nav-link" to="works" smooth={true} duration={800} offset={-100}>
                         Works
                     </Link>
                 </div>
