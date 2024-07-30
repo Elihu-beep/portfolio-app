@@ -17,9 +17,7 @@ const Home = () => {
                         <span>an engineer!</span>
                     </h1>
                     <p className='aboutText'>
-                    I'm a software developer working in mobile and web development. While my passion
-                    is in front-end development, I'm a diverse engineer with expertise in various domains of the field such as
-                    artifical intelligence, DevOps and back-end development.
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur ullamcorper lacinia nibh nec vestibulum. Etiam eu sapien tempor, gravida erat nec, facilisis risus. 
                     
                     </p>
                     <div className='button-container'>
